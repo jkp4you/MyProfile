@@ -2,3 +2,36 @@
     margin: 0px;
     padding: 0px;;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+  position: fixed;
+  padding-top: 1%;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(2, 0, 0);
+  color: white;
+  text-align: center;
+}
